@@ -1,0 +1,3 @@
+git add .
+git commit -mn "practice1"
+git push origin main
